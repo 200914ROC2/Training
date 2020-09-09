@@ -1,0 +1,72 @@
+# Front End Development
+
+- HTML5
+  - tags vs elements vs attributes vs inner HTML
+  - Common HTML tags
+  - HTML forms
+    - input
+    - submit
+    - method vs action
+    - form validation
+- CSS3
+  - how to include CSS in HTML
+  - internal vs external stylesheets
+  - CSS Rules
+  - CSS selectors
+  - Cascade priority:
+    - external
+    - internal
+    - in-line
+  - Box Model
+  - Id vs Class tag
+- JavaScript for Web Development
+  - ES6
+  - Variables:
+    - Scopes
+    - var, let, const
+    - hoisting
+  - Objects, arrays, functions
+  - JSON stringify & parse
+  - Document Object Model (DOM)
+    - DOM Selection
+    - DOM Manipulation
+  - Prototypical Inheritance
+  - Callbacks & closures
+  - Events:
+    - Bubbling vs Capturing
+    - Event Object
+    - Event Listeners
+    - Event Emitters
+  - Template literals
+  - Lambda arrow notation
+  - Async functions: setInterval, setTimeout
+  - AJAX: Asynchronous JavaScript & XML
+    - AJAX Workflow
+    - XMLHttpRequestObject
+    - How to implement an AJAX request
+  - Promises and Fetch API
+- Bootstrap
+  - CDN
+  - grid system
+  - common Bootstrap classes
+- HTTP
+  - Request vs Response
+  - Verbs:
+    - Get vs Post
+  - URI
+  - Body
+- Postman
+
+# Industry Practices and SDLC
+
+- Software Development LifeCycle (SDLC)
+  - Steps in the SDLC
+  - Agile vs Waterfall
+- Agile and Scrum
+  - Agile vs Scrum
+  - Scrum Concepts
+    - Scrum Ceremonies
+    - Story Pointing
+    - User Stories
+    - Scrum Boards
+    - Scrum Team
