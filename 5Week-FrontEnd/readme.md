@@ -1,5 +1,7 @@
 # Front End Development
 
+Topics for the week:
+
 - HTML5
   - tags vs elements vs attributes vs inner HTML
   - Common HTML tags
@@ -57,7 +59,7 @@
   - Body
 - Postman
 
-# Industry Practices and SDLC
+# Agile Practices and SDLC
 
 - Software Development LifeCycle (SDLC)
   - Steps in the SDLC
@@ -66,7 +68,11 @@
   - Agile vs Scrum
   - Scrum Concepts
     - Scrum Ceremonies
+      - Standup Meeting
+      - Sprint Planning Meeting
+      - Sprint Review
+      - Sprint Retrospective
     - Story Pointing
     - User Stories
-    - Scrum Boards
+    - Scrum/Kanban Boards
     - Scrum Team
