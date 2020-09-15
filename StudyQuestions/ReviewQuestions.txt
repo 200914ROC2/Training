@@ -1,0 +1,67 @@
+===AWS and DevOps===
+What is unix?
+Talk about grep, yum and man
+Talk about the following unix commands: ls, cd, cat, grep, man, wget, pwd, mkdir, touch, man, cp, mv, echo, nano, vim, sudo
+Explain unix commands used for file creation and directory navigation
+What is vim? What is nano?
+How do I change file permissions (two main ways)?
+How do I create local environment variables
+What is AWS?
+What is the cloud?
+Talk about: EC2, AMI, RDS, EBS, S3, Route 53, VPC, ELB, auto-scaling groups
+What is a security group?
+What is the difference between PAAS, SAAS, and IAAS?
+What are examples of cloud computing models?
+AWS Availability Zones vs Regions
+What is an AWS endpoint?
+DevOps
+Continuous Integration vs Continuous Delivery vs Continuous Deployment
+What is Jenkins?
+How would you build a DevOps Pipeline with notifications and quality checking?
+What is Sonar?
+What is Agile?
+What is Scrum?
+Talk about the steps in the Maven Lifecycle
+What are the "best practices" in DevOps
+Why would it be a good idea to push early and often in DevOps?
+What is git?
+
+====Testing===
+What is pyramid testing?
+What are the following testing phases:
+-unit
+-integration
+-systems
+-UAT
+--alpha and beta
+-performance
+-ramp up
+-ramp down
+-spike
+-stress
+-load
+-exploratory
+-useability
+-api
+-portal
+-regression
+-retest
+-smoke
+What is blackbox vs whitebox testing?
+what is boundary analysis testing?
+what are equivalency groups?
+What is the difference between positive and negative testing.
+What is test automation?
+what is the difference between functional and nonfunctionl testing
+What is a defect?
+What is the defect lifecycle?
+What is the testing lifecycle?
+What are the differences between the following:
+-test strategy
+-test plan
+-business requirements document
+-system requirements specification
+-test case document
+-Requirement traceability matrix
+
+

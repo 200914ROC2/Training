@@ -1,0 +1,51 @@
+What is HTML
+What are some common tags of html
+What is the doctype declaration
+How do i create a table?
+How do I create an unordered/ordered list
+How do I create various form data
+What is CSS
+What are the different ways to include CSS\
+What are some css selectors
+Describe the CSS box model
+What is bootstrap
+What is the bootstrap grid system
+What is Javascript?
+What is ECMA script?
+What are the datatypes of javascript?
+What is type coercion?
+What are closures?
+what is prototypal inheritence?
+What is JSON?
+JSON syntax
+== vs ===
+What are template literals and arrow notation?
+What are the scopes of variables in javascript
+What is the difference between a = 5, and var a = 5?
+var vs let vs const
+What is an event listener?
+What are some different events?
+What is the DOM?
+What is DOM manipulation?
+How do I manipulate the DOM using Javascript?
+How do I select various elements in the DOM? What are different ways?
+What is bubbling and capturing?
+How to add event listener
+How do i cancel an event in javascript?
+Overload functions in JS
+What is the Event object? 
+What is a callback function? 
+What is AJAX?
+What are the different states of AJAX?
+what is the object we use for AJAX in javascript?
+What triggers the different state changes?
+What is the name of the property detecting state changes?
+What is variable hoisting
+truthy/falsey
+What are the different javascript errors
+What is Agile?
+What is Waterfall?
+What is Scrum?
+What are the different Scrum Meetings?
+What are the different Scrum Artifacts?
+What is a Sprint?

@@ -1,0 +1,52 @@
+What is a Servlet
+What is the difference between a servlet config and servlet context
+What is a deployment descriptor
+What is the lifecycle of a servlet starting from the request
+How do I preload a servlet
+How do I set init params for both servlet config and context
+What tags are used for mapping a servlet in teh web.xml;
+What is the servlet inheritance tree
+How to retrieve servlet config parameters 
+What is a filter
+How do I perform error handling with the deployment descriptor
+What is a front controller
+RequestDispather vs sendRedirect
+How do I get form data with servlets
+What is the printwriter
+How do I use javascript for form validation?
+How do I use AJAX to hit a servlet? How do I received a JSON back?
+What is angular?
+What is a decorator
+What is node? 
+Npm
+Webpack
+What is the purpose of angular?
+Explain the various files and their purposes within an angular applicaiton
+What is linting?
+What is bundling?
+What is typescript?
+What are the different access modifiers of angular?
+What are directives?
+What are services?
+Components
+What are modules?
+what are pipes?
+What is the purpose of components and html templates?
+What is 2-way databinding.
+How do i perform the different databadinings?
+What is string interpolation
+What is property binding
+what is event binding.
+What is routing?
+How do I perform routing?
+What is RxJS?
+How do I send http requests in angular?
+What is the difference between promises and observables?
+What is the difference between AngularJS and angular 4+
+What is package.json?
+Lifecylce hooks
+What is MVC?
+What are the different lifecycle methods that can be used with components?
+What is the purpose of package.json?
+
+
