@@ -22,7 +22,6 @@ Make sure you pitch your idea to me so that I can approve it. During this projec
   - AWS DynamoDB
   - AWS CloudFront
 - If you really hate backend and you want to make the minimum requirements:
-  - Postman Mock Server
   - Json Server (from npm)
 
 ## Still trying to impress me?
