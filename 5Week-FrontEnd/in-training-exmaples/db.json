@@ -1,0 +1,37 @@
+{
+	"trainers": [
+		{
+			"name": "Ash",
+			"badge": 0,
+			"team": [
+				{
+					"id": 1,
+					"name": "bulbasaur"
+				},
+				{
+					"id": 25,
+					"name": "pikachu"
+				}
+			]
+		},
+
+		{
+			"name": "Red",
+			"badge": 10,
+			"team": [
+				{
+					"id": 3,
+					"name": "venosaur"
+				},
+				{
+					"id": 25,
+					"name": "pikachu"
+				},
+				{
+					"id": 143,
+					"name": "snorlax"
+				}
+			]
+		}
+	]
+}
