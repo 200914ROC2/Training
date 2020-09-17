@@ -40,7 +40,7 @@ Topics for the week:
     - Event Listeners
     - Event Emitters
   - Template literals
-  - Lambda arrow notation
+  - arrow notation
   - Async functions: setInterval, setTimeout
   - AJAX: Asynchronous JavaScript & XML
     - AJAX Workflow

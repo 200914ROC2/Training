@@ -8,6 +8,7 @@ The documentation an be found at: https://www.npmjs.com/package/json-server
 2. enter the following command to install globally (necessary to do if you want to use cli command):
    > npm i -g json-server
 3. create a mock database using a json file (exmple below):
+
    `db.json`
 
 ```json
