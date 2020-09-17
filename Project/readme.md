@@ -44,4 +44,4 @@ This project is tentatively due at the end of the final week of training.
 
 ## Teams
 
-[TBD]()
+[Team Sheet](https://docs.google.com/spreadsheets/d/1oESoHAOI8lwMTgV1iRTrCe78P3TKL0m3-BUTYSe45dA/edit#gid=0)
