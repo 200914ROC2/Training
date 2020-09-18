@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Event Propagation</title>
+    <style>
+        #inner {
+            background-color: paleturquoise;
+        }
+
+        #middle {
+            background-color: firebrick;
+        }
+
+        #outer {
+            background-color: plum;
+        }
+
+        #inner,
+        #middle,
+        #outer {
+            text-align: center;
+            padding: 50px;
+            font-weight: 600;
+            font-size: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="outer">
+        <br>OUTER<br><br>
+        <div id="middle">
+            <br>MIDDLE<br><br>
+            <div id="inner">
+                <br>INNER<br><br>
+            </div>
+        </div>
+    </div>
+    <script src="18-EventProp.js"></script>
+</body>
+
+</html>
