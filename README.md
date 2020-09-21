@@ -3,6 +3,7 @@
 Training starts with Week 5 since weeks 1-4 were covered in ROC1
 
 - Week 5: Front End Development
+  - [PokeDex UI](https://github.com/200914ROC2/5w-pokedex-ui)
 - Week 6: Angular
 - Week 7: DevOps/AWS
 - Week 8: AWS Certified Cloud Practitioner Prep
