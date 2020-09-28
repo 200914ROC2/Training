@@ -2,8 +2,6 @@
 
 - Tools
   - Amazon Web Services(AWS)
-  - Anypoint Platform
-  - CloudHub
   - Linux
   - Jenkins
   - Docker
@@ -56,4 +54,4 @@
 - Maven
   - Maven Lifecycle
   - Maven commands
-  - Building a Maven projet
+  - Building a Maven project
